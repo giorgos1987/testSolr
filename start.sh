@@ -26,11 +26,10 @@ done
 
 
 
+#just a quick test
 
 
 
 
 
-
-
-exit
+exit;
